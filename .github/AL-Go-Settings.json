@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/mazhelez-org/AL-Go/bf247f662e430b260701b13b6953849e0b2448a0/Actions/.Modules/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/mazhelez-org/tmp3N4tJJ-PTE@main",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
